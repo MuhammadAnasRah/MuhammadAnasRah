@@ -10,7 +10,7 @@
 
 ### 🛡️ Aspiring Cybersecurity Engineer | Computer Science Enthusiast
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/MuhammadAnasRah">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=650&lines=Exploring+Web+Application+Security;Learning+Python+and+Computer+Science;Building+Projects+and+Documenting+My+Journey" alt="Typing animation introducing my interests" />
 </a>
 
@@ -152,12 +152,14 @@ I'm working toward building original projects that demonstrate my understanding 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/MuhammadAnasRah">
   <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-111827?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub profile" />
 </a>
+<br>
 <a href="https://www.linkedin.com/in/anas-rah/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn profile" />
 </a>
+<br>
 <a href="https://medium.com/@muhammad.anas.rah">
   <img src="https://img.shields.io/badge/Medium-Read_My_Articles-111827?style=for-the-badge&logo=medium&logoColor=5EEAD4" alt="Medium articles" />
 </a>
