@@ -1,23 +1,28 @@
 <!--
-  GITHUB PROFILE README
-  Replace YOUR_GITHUB_USERNAME and all other placeholders.
-  Save this file as README.md in your special profile repository.
+  GitHub Profile README
+  Username: MuhammadAnasRah
+  Theme: Dark Cybersecurity / Teal
 -->
 
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Anas
+# 👋 Hi, I'm Anas
 
-### 🛡️ Aspiring Cybersecurity Engineer | Computer Science Enthusiast
+### 🛡️ Cybersecurity Learner | Red Teaming & Offensive Security
 
-<a href="https://github.com/MuhammadAnasRah">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=650&lines=Exploring+Web+Application+Security;Learning+Python+and+Computer+Science;Building+Projects+and+Documenting+My+Journey" alt="Typing animation introducing my interests" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=650&lines=Exploring+Red+Teaming+%26+Offensive+Security;Learning+Web+Application+Security;Building+Practical+Projects;Always+Learning%2C+Always+Improving" alt="Cybersecurity interests animation" />
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Followers&color=134E4A)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0D9488&label=PROFILE+VIEWS)](https://github.com/YOUR_GITHUB_USERNAME)
+<p>
+  <a href="https://github.com/MuhammadAnasRah">
+    <img src="https://img.shields.io/badge/GitHub-MuhammadAnasRah-111827?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anas-rah/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@muhammad.anas.rah">
+    <img src="https://img.shields.io/badge/Medium-Articles-111827?style=for-the-badge&logo=medium&logoColor=5EEAD4" alt="Medium"/>
+  </a>
+</p>
 
 </div>
 
@@ -25,143 +30,159 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class CybersecurityLearner:
-    def __init__(self):
-        self.name = "Muhammad Anas"
-        self.interests = [
-            "Cybersecurity",
-            "Computer Science",
-            "Web Application Security",
-            "Python Programming"
-        ]
-        self.current_focus = [
-            "Learning through security labs",
-            "Building practical projects",
-            "Documenting technical knowledge"
-        ]
+I'm a student interested in **cybersecurity, red teaming, and offensive security**. I enjoy exploring how systems and web applications work, understanding their security weaknesses, and learning how they can be tested and secured.
 
-    def goal(self):
-        return "Learn, build, document, and keep improving."
+My learning journey includes hands-on web security labs, cybersecurity learning paths, and Capture the Flag (CTF) challenges. Alongside security, I have experience with Python and Linux, and I'm exploring areas such as machine learning and web development.
 
+- 🛡️ **Primary Interest:** Red Teaming & Offensive Security
+- 🌐 **Security Focus:** Web Application Security
+- 🧪 **Hands-on Learning:** PortSwigger Web Security Academy and TryHackMe
+- 🐍 **Programming:** Python, Bash, and C fundamentals
+- 🚀 **Software Project:** Virtual Try-On Application
+- 📚 **Current Goal:** Strengthen my security skills through practical challenges and independent projects
 
-me = CybersecurityLearner()
-print(me.goal())
-```
+## 🔐 Cybersecurity Experience
 
-I'm a student interested in **Computer Science and Cybersecurity**, with a particular interest in web application security and Penetration Testing.
+### 🌐 Web Application Security
 
-I enjoy learning through hands-on challenges, exploring how web applications work, and developing projects that help me apply my knowledge.
+I have completed a large number of labs on **PortSwigger Web Security Academy**, exploring vulnerabilities and security testing techniques across multiple topics.
 
-My current journey includes practicing web security through PortSwigger Web Security Academy, learning foundational cybersecurity concepts through TryHackMe, and building programming projects.
+Topics I have studied include:
 
-🎯 My long-term goal is to strengthen my computer science foundations and grow into a cybersecurity professional through continuous learning and practical experience.
+- SQL Injection (SQLi)
+- Cross-Site Scripting (XSS)
+- Cross-Site Request Forgery (CSRF)
+- Server-Side Request Forgery (SSRF)
+- JSON Web Token (JWT) vulnerabilities
+- XML External Entity (XXE) injection
+- Clickjacking
+- Web cache poisoning
+- Other web application security vulnerabilities
 
-## 🛡️ Cybersecurity Journey
+### 🎯 Hands-on Practice
 
-| Area | Experience |
-|---|---|
-| 🌐 Web Application Security | Practiced PortSwigger Web Security Academy labs, including Apprentice and Practitioner-level challenges |
-| 🔐 Cybersecurity Fundamentals | Completed the TryHackMe Pre Security learning path |
-| 🚩 CTF Challenges | Participated in two CTF challenges |
-| 🐍 Programming | Learning and practicing Python |
-| 💻 Project Development | Building and improving software projects |
+- Completed the TryHackMe **Pre Security** learning path.
+- Worked through TryHackMe **Junior Penetration Tester** rooms and learning content.
+- Practicing CTF challenges on TryHackMe to improve problem-solving and technical skills.
+- Exploring red teaming and offensive security methodologies through continued learning.
 
-> I'm continuing to expand my knowledge, document what I learn, and develop original projects.
+## 🧰 Technical Skills
 
-## 🧰 Technologies & Tools
+### 🖥️ Operating Systems & Scripting
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python&theme=dark" alt="Linux, Bash and Python"/>
+</p>
 
-### Programming & Web Development
+- Linux terminal and shell
+- Bash scripting
+- Python programming
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github&theme=dark" alt="Python, HTML, CSS, JavaScript, Git and GitHub icons" />
+### 🛡️ Security Tools
 
-### Cybersecurity Learning Platforms
+<p>
+  <img src="https://img.shields.io/badge/Nmap-Network_Scanning-111827?style=for-the-badge&logo=linux&logoColor=5EEAD4" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-Traffic_Analysis-111827?style=for-the-badge&logo=wireshark&logoColor=5EEAD4" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-Web_Security-111827?style=for-the-badge&logo=burpsuite&logoColor=5EEAD4" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Metasploit-Penetration_Testing-111827?style=for-the-badge&logo=metasploit&logoColor=5EEAD4" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Hydra-Login_Testing-111827?style=for-the-badge&logoColor=5EEAD4" alt="Hydra"/>
+  <img src="https://img.shields.io/badge/Gobuster-Content_Discovery-111827?style=for-the-badge&logoColor=5EEAD4" alt="Gobuster"/>
+</p>
 
-<a href="https://portswigger.net/web-security">
-  <img src="https://img.shields.io/badge/PortSwigger-Web_Security_Academy-111827?style=for-the-badge&logo=burpsuite&logoColor=5EEAD4" alt="PortSwigger Web Security Academy" />
-</a>
-<a href="https://tryhackme.com/">
-  <img src="https://img.shields.io/badge/TryHackMe-Security_Labs-111827?style=for-the-badge&logo=tryhackme&logoColor=5EEAD4" alt="TryHackMe" />
-</a>
+### 💻 Programming & Web Development
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark" alt="Python, C, HTML, CSS and JavaScript"/>
+</p>
 
-## 🚀 Featured Projects
+- Python and C programming fundamentals
+- HTML, CSS, and JavaScript fundamentals
 
-### 👕 Virtual Try-On Application
+### 📊 Data Science & Machine Learning
 
-A project exploring AI-powered virtual clothing try-on, allowing users to upload an image, select clothing, and generate a visual preview.
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" alt="NumPy, Pandas and scikit-learn"/>
+</p>
 
-**Focus areas:** Frontend development, user experience, and AI-powered image generation.
+- Introductory experience with NumPy and Pandas
+- Exploring machine learning fundamentals
 
-**Tech stack:** HTML, CSS, JavaScript, and the image-generation API used by the project.
+*My experience varies across these technologies, and I'm continuing to develop my practical skills.*
 
-🔗 **Repository:** [View Project](https://github.com/MuhammadAnasRah/fitroom2)
+## 🚀 Featured Project
 
-> Add a screenshot, a short demo, and setup instructions to the repository README.
+### 👕 Fitroom — Virtual Try-On Application
 
-### 🔎 Cybersecurity Learning Portfolio
+A software project focused on AI-powered virtual clothing try-on, allowing users to upload an image, select clothing, and generate a visual preview.
 
-A growing collection of my cybersecurity learning notes, lab documentation, and practical security projects.
+**Project interests:**
+- Frontend development and user experience
+- AI-powered image generation integration
+- Building practical software applications
 
-Planned documentation includes:
-- Web application security concepts
-- Key takeaways from authorized security labs
-- CTF challenge retrospectives
-- Original cybersecurity projects
+<p>
+  <a href="https://github.com/MuhammadAnasRah/fitroom2">
+    <img src="https://img.shields.io/badge/View_My_Repository-111827?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="View my Fitroom repository"/>
+  </a>
+  <a href="https://github.com/MuhammadMohibDeveloper/Fitroom">
+    <img src="https://img.shields.io/badge/Original_Project-111827?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="View original project"/>
+  </a>
+</p>
 
-🔗 **Repository:** [View Security Portfolio](YOUR_CYBERSECURITY_REPOSITORY_URL)
+*This project was developed collaboratively with a friend. My repository is a fork of the original project.*
 
-### 🧪 Future Security Projects
+## 📂 Cybersecurity Portfolio
 
-I'm working toward building original projects that demonstrate my understanding of web security, programming, and security testing in controlled environments.
+I'm preparing a dedicated repository to organize and document my cybersecurity learning.
 
-🔗 **Repository:** [Explore My Repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+Planned sections include:
+
+- 🌐 Web application security notes
+- 🧪 PortSwigger lab learning reflections
+- 🚩 TryHackMe CTF write-ups
+- 🐍 Python-based security projects
+- 📖 Technical references and learning resources
+
+A separate repository will be linked here once it is created and populated with documentation.
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=5EEAD4&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+<a href="https://github.com/MuhammadAnasRah">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAnasRah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=5EEAD4&text_color=C9D1D9" alt="GitHub statistics"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=C9D1D9" alt="Most-used public repository languages" />
+<a href="https://github.com/MuhammadAnasRah">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAnasRah&layout=compact&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=C9D1D9" alt="Most-used languages in public repositories"/>
 </a>
 
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=5EEAD4&fire=14B8A6&currStreakLabel=5EEAD4" alt="GitHub contribution streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=MuhammadAnasRah&theme=dark&hide_border=true&background=0D1117&ring=5EEAD4&fire=14B8A6&currStreakLabel=5EEAD4" alt="GitHub contribution streak"/>
 
 </div>
 
-## 🌱 Currently Working On
+## 🌱 Currently Learning
 
-- 📚 Strengthening my computer science and cybersecurity foundations
-- 🔐 Continuing to explore web application security
-- 🐍 Improving my Python programming and project-building skills
-- 📝 Documenting my learning and practical work
-- 🚀 Developing projects that demonstrate my technical growth
+- 🔴 Red teaming and offensive security
+- 🌐 Web application security testing
+- 🚩 CTF problem-solving on TryHackMe
+- 🐍 Python programming and automation
+- 🛠️ Building practical projects and documenting technical knowledge
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/MuhammadAnasRah">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-111827?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-111827?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub"/>
 </a>
-<br>
 <a href="https://www.linkedin.com/in/anas-rah/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn profile" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-111827?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn"/>
 </a>
-<br>
 <a href="https://medium.com/@muhammad.anas.rah">
-  <img src="https://img.shields.io/badge/Medium-Read_My_Articles-111827?style=for-the-badge&logo=medium&logoColor=5EEAD4" alt="Medium articles" />
+  <img src="https://img.shields.io/badge/Medium-Read_My_Writing-111827?style=for-the-badge&logo=medium&logoColor=5EEAD4" alt="Medium"/>
 </a>
 
 </div>
@@ -170,8 +191,8 @@ I'm working toward building original projects that demonstrate my understanding 
 
 <div align="center">
 
-### 💚 Learn Continuously. Build Practically. Document Honestly.
+### 🛡️ Learn. Explore. Build. Improve.
 
-<sub>Growing one project, one challenge, and one lesson at a time.</sub>
+<sub>Building a strong foundation in cybersecurity, one challenge at a time.</sub>
 
 </div>
