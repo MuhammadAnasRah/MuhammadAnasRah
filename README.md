@@ -28,7 +28,7 @@
 ```python
 class CybersecurityLearner:
     def __init__(self):
-        self.name = "YOUR_NAME"
+        self.name = "Muhammad Anas"
         self.interests = [
             "Cybersecurity",
             "Computer Science",
